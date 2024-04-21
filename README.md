@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello, I'm malvarosa25 ;)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mo-ri-regen&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/malvarosa25/github-readme-stats)
+
 
 <!--
 **malvarosa25/malvarosa25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
